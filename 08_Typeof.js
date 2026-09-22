@@ -43,6 +43,6 @@ console.log(date);
 
 /**
  * Array.isArray()es la forma confiable de comprobar los arrays, ya que typeof []devuelve "object".
- * Para una comprobación de tipos más compleja, Object.prototype.toString()proporciona información de tipo precisa.
+ * Para una comprobación de tipos más compleja, Object.prototype.toString() proporciona información de tipo precisa.
  *
  */
