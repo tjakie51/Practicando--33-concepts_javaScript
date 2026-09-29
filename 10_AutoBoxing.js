@@ -17,7 +17,7 @@ console.log("\n---AutoBoxing---");
 
 // 2) javascript crea un objeto contenedor, detras de escena javascript hace
 
-new String("hello").toUpperCase;
+(new String("hello")).toUpperCase;
 
 // 3) el metodo se ejecuta y devuelve
 
